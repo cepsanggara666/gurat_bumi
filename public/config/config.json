@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x873c7A7889b25F339B3e015C3d0F81CE8D9c8CB4",
+  "SCAN_LINK": "https://ropsten.etherscan.io/token/0x873c7A7889b25F339B3e015C3d0F81CE8D9c8CB4",
+  "NETWORK": {
+    "NAME": "Mainnet Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Rich Play NFT",
+  "SYMBOL": "RPNFT",
+  "MAX_SUPPLY": 4500,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/whyyoey",
+  "SHOW_BACKGROUND": true
+}
